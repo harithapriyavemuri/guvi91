@@ -13,5 +13,6 @@ class Ideone
 		int n=sc.nextInt();
 		n *=2;
 		System.out.println(n);
+	}
 	
 }
